@@ -1,3 +1,8 @@
+Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
+
+Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
+
+
 ### Index
 * [Ada](#ada)
 * [Agda](#agda)
@@ -32,6 +37,7 @@
 * [Delphi / Pascal](#delphi--pascal)
 * [DTrace](#dtrace)
 * [Elasticsearch](#elasticsearch)
+* [Elixir](#elixir)
 * [Emacs](#emacs)
 * [Erlang](#erlang)
 * [F#](#f-sharp)
@@ -71,6 +77,7 @@
     * [Algorithms & Datastructures](#algorithms--data-structures)
     * [Cellular Automata](#cellular-automata)
     * [Cloud Computing](#cloud-computing)
+    * [Competitive Programming](#competitive-programming)
     * [Compiler Design](#compiler-design)
     * [Database](#database)
     * [Datamining](#datamining)
@@ -139,7 +146,7 @@
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
-* [Raspberry Pi] (#rpi)
+* [Raspberry Pi] (#raspberry-pi)
 * [REBOL](#rebol)
 * [Ruby](#ruby)
     * [RSpec](#rspec)
@@ -204,6 +211,7 @@
 * [MindView Inc](http://www.mindviewinc.com/Books/)
 * [O'Reilly's Commons](http://commons.oreilly.com/wiki/index.php/O%27Reilly_Commons)
 * [O'Reilly's Open Books Project](http://oreilly.com/openbook/)
+* [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Red Gate Books](http://www.red-gate.com/community/books/index)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBooksForFree.com](http://www.techbooksforfree.com/)
@@ -221,7 +229,9 @@
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 * [Introduction to Modern OpenGL](http://open.gl/)
+* [Learn OpenGL](http://learnopengl.com/) - Joey de Vries
 * [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/) (draft)
+* [OpenGL](http://www.songho.ca/opengl/index.html): Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
@@ -238,19 +248,23 @@
 #### Algorithms & Data Structures
 * [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html)
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
+* [Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](http://www.math.upenn.edu/~wilf/AlgoComp.pdf) (PDF)
 * [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
 * [Algorithms Course Materials](http://compgeom.cs.uiuc.edu/~jeffe/teaching/algorithms/) - Jeff Erickson
+* [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
+* [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://drive.google.com/file/d/0B48k2jhdQ5P2aVlmMFB1UUJLczA/edit?usp=sharing)
 * [Data Structures Succinctly Part 1, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Data Structures Succinctly Part 2, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) *(Just fill the fields with any values)*
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
+* [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
 * [Open Data Structures: An Introduction](http://www.aupress.ca/index.php/books/120226) - Pat Morin
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://www.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://larc.unt.edu/ian/books/free/lnoa.pdf), University of North Texas (PDF)
@@ -267,7 +281,7 @@
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
-* [Handbook of Graph Drawing and Visualization] (https://cs.brown.edu/~rt/gdhandbook/)
+
 
 
 #### Cellular Automata
@@ -278,6 +292,10 @@
 #### Cloud Computing
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
 * [OpenStack Operations Guide](http://docs.openstack.org/ops/)
+
+
+#### Competitive Programming
+* [Competitive Programming](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) (PDF)
 
 
 #### Compiler Design
@@ -293,6 +311,13 @@
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
 * [Linkers and Loaders](http://www.iecc.com/linker/) - John R. Levine
 * [Practical and Theoretical Aspects of Compiler Construction](http://www.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
+
+
+#### Computer Vision
+* [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
+* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) - Richard Szeliski
+* [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J.D. Prince
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 
 
 #### Database
@@ -331,7 +356,6 @@
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 * [Artificial Intelligence | Machine Learning](http://see.stanford.edu/see/materials/aimlcs229/handouts.aspx) - Andrew Ng *(Notes, lectures, and problems)*
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-* [Computer Vision: Algorithms and Applications](http://hackershelf.com/book/134/computer-vision-algorithms-and-applications/)
 * [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 * [Inductive Logic Programming](http://www-ai.ijs.si/SasoDzeroski/ILPBook/)
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/)
@@ -342,7 +366,6 @@
 * [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/whole.pdf) (PDF) or [online version](http://www1.maths.leeds.ac.uk/~charles/statlog/) - This book is based on the EC (ESPRIT) project StatLog.
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
-* [Programming Computer Vision with Python](http://programmingcomputervision.com/) - Jan Erik Solem
 * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
 * [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
@@ -358,17 +381,26 @@
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
 * [Differential Equations](http://tutorial.math.lamar.edu/pdf/DE/DE_Complete.pdf) - Paul Dawkins
+* [Discrete Mathematics](http://home.iitk.ac.in/%7Earlal/book/mth202.pdf) (PDF) - Dr. Arbind K Lal, IIT Kanpur
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench
 * [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke
+* [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
+* [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
+* [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+* [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello and Paolo Toth
+* [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) (PDF) -  Dr. P. Shunmugaraj, IIT Kanpur
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
+* [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/book_linear.pdf) (PDF) - Dr. Arbind K Lal, IIT Kanpur
 * [Linear Algebra: An Introduction to Mathematical Discourse](http://en.wikibooks.org/wiki/Linear_Algebra) - Jim Hefferon
 * [Linear Algebra, Theory And Applications](http://www.math.byu.edu/klkuttle/linearalgebra.pdf) - Kenneth Kuttler
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-* [Mathematics for Computer Science (November 2013 Version)](https://www.cs.princeton.edu/courses/archive/fall13/cos340/LLM.pdf) (PDF) - Eric Lehman
+* [Mathematics, MTS 101A](http://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 * [Notes on Diﬀerential Equations](http://www.math.cornell.edu/~bterrell/dn.pdf) - Robert E. Terrell
 * [Number Theory](http://web.mit.edu/~holden1/www/math/number-theory.pdf) (PDF)
+* [Numerical Methods](http://www.iitg.ac.in/kartha/CE601-14/CourseSchedule.htm),2014 - Dr. Suresh A. Kartha, IIT, Guwahati
+* [Numerical Methods](ihttp://www.iitg.ac.in/kartha/CE601/LectureSlides.htm),2012 - Dr. Suresh A. Karmtha, IIT, Guwahati
 * [OpenIntro Statistics](http://www.openintro.org/stat/textbook.php)
 * [Ordinary Differential Equations](http://en.wikibooks.org/wiki/Ordinary_Differential_Equations)
 * [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
@@ -377,6 +409,12 @@
 * [Statistics Done Wrong](http://www.refsmmat.com/statistics/) - Alex Reinhart
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (code written in Python) - Allen B. Downey
+* [An Introduction to Statistics](http://work.thaslwanter.at/Stats/html/) (with Python) - Thomas Haslwanter
+
+#### Mathematics For Computer Science
+
+* [Mathematics for Computer Science (January 2012 Version)](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf) (PDF) - Eric Lehman
+* [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
 
 #### Misc
@@ -397,6 +435,7 @@
 * [Digital Signal Processing For Communications](http://www.sp4comm.org/)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * ["DYNAMIC LINKED LIBRARIES": Paradigms of the GPL license in contemporary software](http://www.lulu.com/shop/luis-enriquez-a/dynamic-linked-libraries-paradigms-of-the-gpl-license-in-contemporary-software/ebook/product-21371318.html) - Luis A. Enríquez
+* [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 * [Flow based Programming](http://jpaulmorrison.com/fbp/)
 * [Foundations of Programming](http://codebetter.com/files/folders/codebetter_downloads/entry179694.aspx)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) - Bob Nystrom
@@ -407,6 +446,7 @@
 * [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 * [I Am a Bug](http://www.amibug.com/iamabug/p01.html)
+* [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf)
 * [Learn to Program](http://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://www.openshift.com/blogs/learning-30-technologies-in-30-days-a-developer-challenge) - Shekhar Gulati
@@ -439,15 +479,19 @@
 * [edX](https://www.edx.org/)
 * [FutureLearn](https://www.futurelearn.com/)
 * [MIT OCW](http://ocw.mit.edu/OcwWeb/web/home/home/index.htm)
+* [NPTEL](http://nptel.ac.in/courses.php?disciplineId=106)
 * [Udacity](https://www.udacity.com/)
 
 
 #### Networking
 * [802.11ac: A Survival Guide](http://chimera.labs.oreilly.com/books/1234000001739) - Matthew Gast
+* [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
+* [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
 * [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [HTTP Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) *(Just fill the fields with any values)*
+* [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
 * [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
@@ -462,21 +506,26 @@
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html)
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org/)
 * [Producing Open Source Software](http://producingoss.com/)
+* [The Art of Community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) (PDF) - Jono Bacon
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
 * [The Future of the Internet](http://futureoftheinternet.org/)
+* [The Open Source Way](http://www.theopensourceway.org/book/)
 * [The Performance of Open Source Applications](http://aosabook.org/en/)
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
 
 #### Operating systems
+* [Computer Science from the Bottom Up](http://www.bottomupcs.com/)
 * [How to Make a Computer Operating System (Work in Progress)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [Operating Systems](http://www.cse.iitd.ernet.in/~suban/csl373/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) (PDF and LaTeX)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (PDF)
 * [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) - Dominic Giampaolo
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond
 * [The Design and Implementation of the Anykernel and Rump Kernels](https://github.com/rumpkernel/book) - Antti Kantee
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/) - Allen B. Downey
+* [The little book about OS development](https://littleosbook.github.io/) - Erik Helin, Adam Renberg
 * [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html) (PDF) - Allen B. Downey
 * [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) (PDFs) - Prof. Stewart Weiss
 * [Xv6, a simple Unix-like teaching operating system](http://pdos.csail.mit.edu/6.828/2012/xv6.html) (PDF)
@@ -515,6 +564,7 @@
 #### Regular Expressions
 * [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/) - Zed. A. Shaw
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen
+* [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
 
 
 #### Reverse Engineering
@@ -528,9 +578,10 @@
 * [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Intrusion Detection Systems with Snort](http://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf)
+* [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
-
+* [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)
 
 #### Software Architecture
 * [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
@@ -564,6 +615,7 @@
 
 #### Standards
 * [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/g-nix/posix-standard)
+* [Linux Standard Base](http://refspecs.linuxfoundation.org/lsb.shtml)
 
 
 #### Theoretical Computer Science
@@ -571,6 +623,7 @@
 * [Building Blocks for Theoretical Computer Science](http://www.cs.uiuc.edu/~mfleck/building-blocks/index.html) - Margaret M. Fleck
 * [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
+* [Introduction to Computer Science](http://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](http://www.computingbook.org/)
 * [Introduction to Theory of Computation](http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/) (PDF) - Anil Maheshwari and Michiel Smid
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
@@ -580,7 +633,9 @@
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html) - Shriram Krishnamurthi
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
 * [Programming Languages: Application and Interpretation (2nd Edition)](http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/)
+* [Semantics with Applications: A Formal Introduction](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.html) - Hanne Riis Nielson, Flemming Nielson
 * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
+* [Theory of Computation](http://www.cse.iitd.ernet.in/~ssen/csl705/admin705.html) - Sandeep Sen, IIT Delhi
 * [Think Complexity](http://www.greenteapress.com/compmod/) - Allen B. Downey
 
 
@@ -615,6 +670,7 @@
 * [Google Android Developer Training](https://developer.android.com/training/index.html)
 * [Styling Android](http://www.stylingandroid.com/)
 * [TechnoTalkative Android](http://www.technotalkative.com/android/)
+* [Tutorial Point Android Tutorial](http://www.tutorialspoint.com/android/android_tutorial.pdf) (PDF)
 
 
 ### APL
@@ -626,6 +682,7 @@
 ### Arduino
 * [Arduino Programming Notebook](http://www.lulu.com/shop/brian-evans/arduino-programming-notebook/ebook/product-18598708.html) - Brian Evans
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
+* [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 
 
 ### ASP.NET MVC
@@ -680,6 +737,7 @@
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook](http://www.freeos.com/guides/lsst/)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
+* [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr.
 
 
 ### Basic
@@ -705,17 +763,19 @@
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
+* [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) (PDF)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* [Programming in C - Bharat Kinariwala & Tep Dobry](http://ee.hawaii.edu/~tep/EE160/Book/PDF/)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
 * [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) - Craig A. Finseth
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
-* [Programming in C - Bharat Kinariwala & Tep Dobry](http://ee.hawaii.edu/~tep/EE160/Book/PDF/)
-
+* [The little book about OS development - Erik Helin, Adam Renberg] (http://littleosbook.github.io/)
 
 ### C Sharp
+* [Beginners Guide to C# and the.NET Micro Framework](http://www.ghielectronics.com/downloads/FEZ/Beginners%20guide%20to%20NETMF.pdf)
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Programming - Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
 * [C# Yellow Book](http://www.csharpcourse.com/) (intro to programming)
@@ -738,6 +798,7 @@
 * [Google's C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * [Introduction to Design Patterns in C++ with Qt](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
+* [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](http://www.stroustrup.com/JSF-AV-rules.pdf)
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
@@ -748,18 +809,22 @@
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
+
 ### Chapel
 * [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
 * [Chapel Tutorial for Programmers](http://cs.colby.edu/kgburke/?resource=chapelTutorial)
 
+
 ### Cilk
 * [Cilk 5.4.6 Reference Manual](http://supertech.csail.mit.edu/cilk/manual-5.4.6.pdf) (PDF)
+
 
 ### Clojure
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [Clojure Cheat Sheet](http://clojure.org/cheatsheet)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com/)
 * [Clojure in Small Pieces](http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey
 * [Clojure Koans](http://clojurekoans.com/)
@@ -768,6 +833,7 @@
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
 
 ### COBOL
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
@@ -825,6 +891,12 @@
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elasticsearch/elasticsearch-definitive-guide))
 * [Exploring Elasticsearch](http://exploringelasticsearch.com/)
 
+### Elixir
+* [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - Tim Morgan (HTML)
+* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
+* [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML)
+* [Learning Elixir](http://learningelixir.joekain.com/) - Joseph Kain Blog (HTML)
+
 
 ### Emacs
 * [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
@@ -835,9 +907,12 @@
 ### Erlang
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
+* [Erlang Programming](http://en.wikibooks.org/wiki/Erlang_Programming) (HTML)
 * [Études for Erlang](http://chimera.labs.oreilly.com/books/1234000000726/index.html) - J. David Eisenberg
+* [Getting Started with Erlang User's Guide](http://www.erlang.org/doc/getting_started/users_guide.html) (HTML)
 * [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/) - Frederic Trottier-Hebert
-* [Stuff Goes Bad: Erlang in Anger](https://s3.amazonaws.com/erlang-in-anger/text.v1.0.0.pdf) - Fred Herbert (PDF)
+* [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) - Joe Armstrong (PDF)
+* [Stuff Goes Bad: Erlang in Anger](https://s3.amazonaws.com/erlang-in-anger/text.v1.0.3.pdf) - Fred Herbert (PDF)
 
 
 ### F Sharp
@@ -886,6 +961,7 @@
 ### Fortran
 * [Fortran programming language - Wikibooks](http://en.wikibooks.org/wiki/Category%3AFortran_programming_language)
 * [Introduction to fortran 95 and numerical computing: a jump-start for scientists and engineers](http://people.cs.vt.edu/~asandu/Deposit/Fortran95_notes.pdf)
+* [Self Study Guide: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf)
 
 
 ### FreeBSD
@@ -897,6 +973,7 @@
 * [A practical git introduction](http://mrchlblng.me/2014/09/practical-git-introduction/)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
+* [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
@@ -959,6 +1036,7 @@
 * [Anatomy of Programming Languages](http://www.cs.utexas.edu/~wcook/anatomy/) - William R. Cook
 * [Beautiful Code, Compelling Evidence](http://vis.renci.org/jeff/2009/01/16/beautiful-code-compelling-evidence/) (PDF)
 * [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh
+* [Introduction to Haskell](http://www.seas.upenn.edu/~cis194/spring13/) - Brent Yorgey
 * [Haskell and Yesod](http://www.yesodweb.com/book-1.2)
 * [Haskell no panic](http://lisperati.com/haskell/)
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
@@ -1033,7 +1111,6 @@
 
 ### Java
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman
-* [Agile Java](http://www.langrsoft.com/ftp/agileJava/) - Jeff Langr
 * [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson
 * [Artificial Intelligence - Foundation of Computational Agents](http://artint.info/html/ArtInt.html)
@@ -1094,6 +1171,7 @@
 * [Dev Docs](http://devdocs.io/)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) - Addy Osmani
 * [Eloquent JavaScript 2nd edition](http://eloquentjavascript.net/) - Marijn Haverbeke
+* [Exploring ES6](https://leanpub.com/exploring-es6/read) - Dr. Axel Rauschmayer
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Human Javascript](http://read.humanjavascript.com/)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite
@@ -1120,6 +1198,7 @@
 * [The JavaScript Tutorial](http://javascript.info/)
 * [The Problem with Native JavaScript APIs](http://chimera.labs.oreilly.com/books/1234000001655) (PDF)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) *(Leanpub, by Nicholas C. Zakas)*
+* [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 
@@ -1225,6 +1304,7 @@ See also [TeX](#tex)
 
 
 ### MATLAB
+* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf)
 * [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/ftp/na-reports/MatlabNotes.pdf)
 * [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 * [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html)
@@ -1444,11 +1524,14 @@ See also [TeX](#tex)
 * [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html) - Rafe Kettler
+* [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 * [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Byte of Python](http://www.swaroopch.com/notes/Python) (2.7.x)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+* [CodeCademy Python](http://www.codecademy.com/tracks/python)
+* [Composing Programs](http://composingprograms.com/) (3.x)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Dive into Python](http://www.diveintopython.net/) - Mark Pilgrim (2.3)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
@@ -1478,10 +1561,11 @@ See also [TeX](#tex)
 * [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) (3.3)
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com/) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner
+* [Problem Solving with Algorithms and Data Structure using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/) (3.3)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
 * [Python 2.7 quick reference](http://infohost.nmt.edu/tcc/help/pubs/python/web/) - New Mexico Tech (2.7)
-* [Python Algorithms] (http://kysmykseka.net/koti/wizardry/Programming/Python/Apress%20-%20Python%20Algorithms%20Mastering%20Basic%20Algorithms%20in%20the%20Python%20Language.pdf) (PDF)
+* [Python Algorithms](http://kysmykseka.net/koti/wizardry/Programming/Python/Apress%20-%20Python%20Algorithms%20Mastering%20Basic%20Algorithms%20in%20the%20Python%20Language.pdf) (PDF)
 * [Python Bibliotheca](http://openbookproject.net/pybiblio/)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) - David Beazley
 * [Python for Econometrics](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf) - Kevin Sheppard (2.7.5)
@@ -1504,15 +1588,13 @@ See also [TeX](#tex)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (3.3 - 3.x)
 * [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
 * [The Art and Craft of Programming](http://beastie.cs.ua.edu/cs150/book/index.html) (3.x)
+* [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Welcome to Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html) - Brad Miller and David Ranum
 * [Wikibooks: Python Programming](http://en.wikibooks.org/wiki/Python_Programming) (2.7)
-* [CodeCademy Python](http://www.codecademy.com/tracks/python)
-* [Python for Informatics](http://www.pythonlearn.com/book_007.pdf)
-* [Composing Programs](http://composingprograms.com/) (3.x)
 
 
 #### Django
@@ -1523,7 +1605,7 @@ See also [TeX](#tex)
 * [Getting started with Django](http://gettingstartedwithdjango.com/) (video)
 * [Tango With Django](http://www.tangowithdjango.com/) (1.5)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.7)
-* [The Django book](http://www.djangobook.com/en/2.0/) (2.0)
+* [The Django book](http://www.djangobook.com/en/2.0/) (1.4 but mostly 1.0)
 
 
 #### Flask
@@ -1570,9 +1652,12 @@ See also [TeX](#tex)
 * [How to Design Programs 2e](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
+* [Realm of Racket](http://it-ebooks.info/book/2628/)
+
 
 ### Raspberry Pi
 * [Raspberry Pi Users Guide](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) (PDF) - Eben Upton
+* [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE)
 
 ### REBOL
 * [Learn REBOL](http://www.lulu.com/shop/nick-antonaccio/learn-rebol/ebook/product-17383182.html) - Nick Antonaccio
@@ -1611,9 +1696,10 @@ See also [TeX](#tex)
 
 
 #### Ruby on Rails
-* [Railscasts - Ruby on Rails Screencasts](http://railscasts.com/)
 * [A community-driven Rails style guide](https://github.com/bbatsov/rails-style-guide)
+* [Building REST APIs with Rails](http://apionrails.icalialabs.com/book)
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read)
+* [Learn Ruby on Rails as You Modify a Craigslist Clone](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
 * [Objects on Rails](http://objectsonrails.com)
 * [Rails Girls Guides](http://guides.railsgirls.com)
 * [Ruby on Rails 3.2 - Step by Step](http://www.xyzpub.com/en/ruby-on-rails/3.2/)
@@ -1621,12 +1707,12 @@ See also [TeX](#tex)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [Ruby on Rails Tutorial: Learn Rails By Example](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
-* [Building REST APIs with Rails](http://apionrails.icalialabs.com/book)
 
 
 ### Rust
 * [Rust by Example](http://rustbyexample.com/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
+* [The Rust Programming Language](http://doc.rust-lang.org/book/)
 
 
 ### Sage
@@ -1665,7 +1751,6 @@ See also [TeX](#tex)
 
 #### Play Scala
 * [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
-* [Work with Play: Build web applications using Scala and the Play Framework](http://workwithplay.com/) - Diego Castorina
 
 
 ### Scheme
@@ -1742,7 +1827,7 @@ See also [TeX](#tex)
 
 ### Standard ML
 * [Programming in Standard ML, Draft](http://www.cs.cmu.edu/~rwh/smlbook/) - Robert Harper
-
+* [Programming in Standard ML '97](http://www.dcs.ed.ac.uk/home/stg/NOTES/), by Stephen Gilmore, University of Edinburgh
 
 ### Subversion
 * [Subversion Version Control](http://www.phptr.com/content/images/0131855182/downloads/Nagel_book.pdf) (PDF)
@@ -1751,8 +1836,9 @@ See also [TeX](#tex)
 
 ### Swift
 * [The Swift Programming Language](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) (iBook)
+* [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML)
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) (iBook)
-
+* [Learn Swift](http://www.swift-tutorial.io/learn-swift)
 
 ### Tcl
 * [Tcl Programming](http://en.wikibooks.org/wiki/Programming%3ATcl), by Richard.Suchenwirth, et. al.
@@ -1785,10 +1871,12 @@ See also [LaTeX](#latex)
 
 
 ### Unix
+* [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Colin Barschel
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Unix for Poets](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
+* [UNIX Commands and Concepts](http://www.cs.bu.edu/teaching/unix/reference/) - Robert I. Pitts
 
 
 ### Verilog
