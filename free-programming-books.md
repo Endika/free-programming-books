@@ -1,6 +1,6 @@
 Original Contribution by [George Stocker](http://stackoverflow.com/users/16587/george-stocker) on [Stack Overflow](http://stackoverflow.com)
 
-Original Source: [Free Programming books](http://stackoverflow.com/revisions/392926/175)
+Original Source: [List of freely available programming books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926)
 
 
 ### Index
@@ -1479,6 +1479,7 @@ See also [TeX](#tex)
 * [Practical PHP Programming](http://www.tuxradar.com/practicalphp) (wiki containing O'Reilly's *PHP In a Nutshell*)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
+* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium) - libsodium PHP extension for modern, secure, and fast cryptography
 
 
 ### PicoLisp
