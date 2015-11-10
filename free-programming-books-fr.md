@@ -10,8 +10,8 @@
 * [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
-* [Caml](#caml)
 * [C / C++](#c--c)
+* [Caml](#caml)
 * [Coq](#coq)
 * [CSS](#css)
 * [Git](#git)
@@ -20,8 +20,8 @@
 * [Javascript](#javascript)
 * [jQuery](#jquery)
 * [(La)TeX et associés](#latex-et-associés)
-    * [LaTeX](#latex)
     * [Asymptote](#asymptote)
+    * [LaTeX](#latex)
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
     * [TeX](#tex)
@@ -46,15 +46,16 @@
 ### Non dépendant du langage
 #### Algorithmique
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours), par Michel Quercia
+* [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html), par Sylvain Perifel
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) par D. Beauquier, J. Berstel, et Ph. Chrétienne
 * [France-IOI](http://www.france-ioi.org/)
 * [Prologin](http://www.prologin.org/)
 
 
 #### Logiciels libres
-* [Histoires et cultures du libres](http://framabook.org/histoires-et-cultures-du-libre/)
-* [Option libre. Du bon usage des licences libres](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/), par Jean Benjamin
-* [Produire du logiciel libre](http://framabook.org/8-produire-du-logiciel-libre/), par Karl Fogel
+* [Histoires et cultures du libres](http://framabook.org/histoiresetculturesdulibre/)
+* [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/), par Jean Benjamin
+* [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/), par Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre/), par R.M. Stallman, S. Williams et C. Masutti
 
 
