@@ -230,13 +230,13 @@ Original Source: [List of freely available programming books](http://web.archive
 * [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
 * [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
 * [GPU Gems](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
-* [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html) - [ch 8,14,18,29,30 as pdf](ftp://download.nvidia.com/developer/GPU_Gems_2/)
+* [GPU Gems 2](http://http.developer.nvidia.com/GPUGems2/gpugems2_part01.html)
 * [GPU Gems 3](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698)
 * [Grokking the GIMP](http://gimp-savvy.com/BOOK/index.html)
 * [Introduction to Modern OpenGL](https://open.gl)
 * [Learn OpenGL](http://learnopengl.com) - Joey de Vries
-* [Learning Modern 3D Graphics Programming](http://ww2.arcsynthesis.org) (draft)
+* [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) (draft)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/)
@@ -847,7 +847,7 @@ Original Source: [List of freely available programming books](http://web.archive
 
 ### C++
 
-* [C++ Annotations](http://cppannotations.sourceforge.net)
+* [C++ Annotations](https://fbb-git.github.io/cppannotations/)
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
@@ -901,6 +901,8 @@ Original Source: [List of freely available programming books](http://web.archive
 ### COBOL
 
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
+* [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
+* [Introduction to the COBOL Language](http://www-03.ibm.com/systems/z/education/skills_coursematerials.html#COBOL)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://opencobol.add1tocobol.com/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
 
 
@@ -955,6 +957,7 @@ Original Source: [List of freely available programming books](http://web.archive
 ### Delphi / Pascal
 
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
+* [Free Pascal: Reference guide](http://ftp.icm.edu.pl/packages/fpc/docs-pdf/ref.pdf) (PDF)
 
 
 ### DTrace
@@ -1295,6 +1298,7 @@ Original Source: [List of freely available programming books](http://web.archive
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) (Maintained by Tim Ruffles)
 * [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan
+* [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite
 * [Javascript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/javascript) (PDF, Kindle) *(Just fill the fields with any values)*
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way)
 * [jQuery Fundamentals](http://jqfundamentals.com) (starts with JavaScript basics)
@@ -1467,7 +1471,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Mercurial
 
 * [HGInit - Mercurial Tutorial by Joel Spolsky](http://hginit.com)
-* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) -
+* [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
 
 
 ### Mercury
@@ -1484,6 +1488,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Neo4J
 
 * [Graph Databases](http://info.neotechnology.com/rs/neotechnology/images/GraphDatabases.pdf) (PDF)
+* [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) *(account required)*
 
 
 ### .NET Framework
@@ -1611,19 +1616,20 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * Laravel Framework
   * [Laravel 4 Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
   * [Laravel: Code Bright](http://daylerees.com/codebright)
-  * [Official Documentation (Offline Version)](https://leanpub.com/laravel-4_2-docs)
-* [PHP 5 Power Programming](http://ptgmedia.pearsoncmg.com/images/013147149X/downloads/013147149X_book.pdf) (PDF)
+  * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
+  * [Official Documentation (Offline Version)](https://leanpub.com/l4-offline-doc)
+* [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [PHP Internals Book](http://www.phpinternalsbook.com)
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
 * [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [PHP: The Right Way](http://www.phptherightway.com)
-* [Practical PHP Programming](http://www.hackingwithphp.com) (wiki containing O'Reilly's *PHP In a Nutshell*)
+* [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Symfony2](http://symfony.com/doc/current/book/index.html)
-* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium) - libsodium PHP extension for modern, secure, and fast cryptography
+* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
 
 ### PicoLisp

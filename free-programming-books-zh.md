@@ -247,7 +247,7 @@
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
-* [编程入门指南](http://huyuefeng.me/intro-to-prog/)
+* [编程入门指南](http://www.kancloud.cn/kancloud/intro-to-prog/52592)
 
 
 ### 编译原理
@@ -301,6 +301,7 @@
 ### Android
 
 * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* [Android Note(开发过程中积累的知识点)](https://github.com/CharonChui/AndroidNote)
 * [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
