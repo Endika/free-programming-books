@@ -1,5 +1,6 @@
 ### Index
 
+* [Algorithmic](#algorithms)
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
@@ -7,6 +8,7 @@
 * [C#](#c-sharp)
 * [C++](#c-2)
 * [Clojure](#clojure)
+* [CUDA](#cuda)
 * [Databases](#databases)
 * [Git](#git)
 * [Go](#go)
@@ -30,6 +32,12 @@
 * [Web Development](#web-development)
 
 
+### Algorithms
+
+* [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
+* [Stanford University Algorithms:Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
+
+
 ### Assembly
 
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
@@ -38,7 +46,7 @@
 
 ### Android
 
-* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidpart1apps101)
+* [Creative, Serious and Playful Science of Android Apps](https://www.coursera.org/course/androidapps101/)
 * [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
@@ -49,6 +57,7 @@
 
 ### AngularJS
 
+* [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 
@@ -74,6 +83,11 @@
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/index.html)
 
 
+### Cuda
+
+* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
+
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
@@ -96,6 +110,7 @@
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
 * [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
+* [RWTH Aachen University: Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
 
 
 ### HTML / CSS
