@@ -62,6 +62,7 @@
 * [Isabelle/HOL](#isabellehol)
 * [J](#j)
 * [Java](#java)
+  * [JasperReports](#jasperreports)
   * [Spring](#spring)
   * [Spring Boot](#spring-boot)
   * [Spring Security](#spring-security)
@@ -465,6 +466,7 @@
 * [I Am A Bug](http://www.amibug.com/iamabug/p01.html)
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](http://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) (PDF)
+* [IRPF90 Fortran code generator](https://www.gitbook.com/book/scemama/irpf90/details) - Anthony Scemama
 * [Learn to Program](https://pine.fm/LearnToProgram/)
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](http://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
@@ -496,7 +498,8 @@
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
 * [FutureLearn](https://www.futurelearn.com)
-* [MIT OCW](http://ocw.mit.edu/index.htm)
+* [MIT OCW](http://ocw.mit.edu)
+* [openHPI](https://open.hpi.de)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
 
@@ -1252,6 +1255,11 @@
 * [What's New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 
 
+#### JasperReports
+
+* [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
+
+
 #### Spring
 
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/) - Rod Johnson, Juergen Hoeller, Keith Donald, Colin Sampaleanu, Rob Harrop, Thomas Risberg, Alef Arendsen, Darren Davison, Dmitriy Kopylenko, Mark Pollack, Thierry Templier, Erwin Vervaet, Portia Tung, Ben Hale, Adrian Colyer, John Lewis, Costin Leau, Mark Fisher, Sam Brannen, Ramnivas Laddad, Arjen Poutsma, Chris Beams, Tareq Abedrabbo, Andy Clement, Dave Syer, Oliver Gierke, Rossen Stoyanchev, Phillip Webb, Rob Winch, Brian Clozel, Stephane Nicoll, Sebastien Deleuze ([PDF](http://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/spring-framework-reference.pdf))
@@ -1395,7 +1403,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
-* [Ubuntu Server Guide](https://help.ubuntu.com/14.04/serverguide/serverguide.pdf) (PDF)
+* [Ubuntu Server Guide](https://help.ubuntu.com/16.04/serverguide/serverguide.pdf) (PDF)
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
 
@@ -1630,6 +1638,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
   * Laravel 5
     * [Laravel 5.x Official Documentation. Synced Daily](https://leanpub.com/laravel-5)
     * [Laravel Best Practices](http://www.laravelbestpractices.com)
+    * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
     * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Best Practices](https://phpbestpractices.org)
@@ -1656,7 +1665,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Practical PostgreSQL](https://www.commandprompt.com/ppbook/)
+* [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
 
 
 ### PowerShell
@@ -1732,7 +1741,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Dive into Python 3](http://getpython3.com/diveintopython3/) - Mark Pilgrim (3.0)
 * [Full Stack Python](http://www.fullstackpython.com)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
-* [Google's Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+* [Google's Python Style Guide](https://github.com/google/styleguide)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
 * [High Performance Python](http://ianozsvald.com/HighPerformancePythonfromTrainingatEuroPython2011_v0.2.pdf) (PDF)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
@@ -1799,6 +1808,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) (PDF) (1.9)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Effective Django](http://www.effectivedjango.com) (1.5)
+* [Mastering Django](http://masteringdjango.com) (1.8)
 * [Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 * [Test-Driven Web Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) (1.8)
 
@@ -1979,7 +1989,7 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [How to Design Programs](http://htdp.org)
 * [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html) - B. Harvey, M. Wright
-* [Structure and Interpretion of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Teach Yourself Scheme in Fixnum Days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html)
 * [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
 * [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
@@ -2005,8 +2015,11 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 ### Smalltalk
 
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/) (PDF)
+* [Deep into Pharo](http://files.pharo.org/books/deep-into-pharo/)
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) -  S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
+* [Numerical Methods with Pharo](http://files.pharo.org/books/numerical-methods/)
 * [Pharo by Example](http://pharobyexample.org) (Smalltalk DE)
+* [Pharo Enterprise: a Web Perspective](http://files.pharo.org/books/enterprise-pharo/)
 * [Squeak By Example](http://www.squeakbyexample.org) (Smalltalk IDE)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 
